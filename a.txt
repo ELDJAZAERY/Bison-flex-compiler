@@ -1,0 +1,69 @@
+/*Import MiniL.io;
+Import MiniL.io;
+Import MiniL.lang;
+*/
+
+
+public class Eleve{
+
+INTEGER G;
+INTEGER x[5],W;
+REAL s;
+REAL d;
+STR list1[5],chain1;
+CONST REAL ff:=-0.5;
+CONST INTEGER G:=-5;
+CONST REAL GG2:=-5.7;
+CONST STR m:="ggg%d";
+INTEGER i;
+
+main { 
+
+
+/*x[10]:=5;
+x:=(-0.5*(3-(9.5)));
+x:=x[0];
+x:=s;
+
+*/
+
+//x:=1/(0+0);
+
+x[7]:=5;
+ff:=5;
+
+out(" %s %s %d ",x,y,x);
+
+in(" %f %s %d  ",x,y,x);
+
+s:=33;
+G:=3.5;
+s:=5;
+s:=3;
+s:=2;
+G:=s;
+x:=" qsd ";
+
+chain1:="ibrahim%d";
+
+For( i := 1 ; i < 15 ; i++ ) {
+
+bbb:=-10;
+
+i:=5;
+
+}
+
+/* qsdkjqshdjlqshsqdq
+*/
+
+//dsqdqsdqsdqs
+
+
+s:=66;
+
+}
+
+
+
+}
